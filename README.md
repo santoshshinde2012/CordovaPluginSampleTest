@@ -19,6 +19,5 @@
 #Step6 :  
        ionic platform add android or ios
 
-#Blogger Link
 
-      http://www.santoshshinde.com/2016/11/steps-to-create-cordova-plugin.html
+[Read more words!](http://www.santoshshinde.com/2016/11/steps-to-create-cordova-plugin.html)
